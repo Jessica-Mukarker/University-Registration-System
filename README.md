@@ -25,11 +25,12 @@ The University Registration System is a comprehensive software solution designed
 - Course and faculty data can be updated each semester to reflect new offerings and assignments.
 
 ## Contribution
+- it was created by Jessica Mukarker , Qamar Zoughier , Tala Aldibs
 - Developers can contribute to this project by cloning the repository and submitting pull requests for new features or bug fixes.
 - For major changes, please open an issue first to discuss what you would like to change.
 
 ## Support
-For support, contact the system administrator at 202007617@bethlehem.edu or raise an issue in the project repository.
+For support, contact the system administrator at JessicaMukarker@gmail.com , mukarkerjessica@gmail.com or raise an issue in the project repository.
 
 ## License
 [MIT License](https://opensource.org/licenses/MIT)
