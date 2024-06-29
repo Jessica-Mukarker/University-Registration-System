@@ -1,0 +1,11 @@
+SWER101,Introduction to Software Engineering,4,30,
+MATH201,Advanced Mathematics,3,40,
+PHYS301,Physics III,4,35,MATH201;PHYS201
+CHEM101,Introductory Chemistry,3,50,
+BIOL202,Biology II,4,45,BIOL101
+CS101,Introduction to Computer Science,4,60,
+HIST101,World History,3,40,
+CS201,Object-Oriented Programming,4,50,CS101;SWER101
+MATH301,Calculus III,4,30,MATH201
+BIOL301,Advanced Biology,4,40,BIOL202
+CS202,Data Structures,4,40,CS101

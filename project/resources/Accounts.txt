@@ -1,0 +1,4 @@
+Role username password
+STUDENT Tala  123456
+FACULTY Rawan  67362
+REGISTRAR AMAR 76178

@@ -1,0 +1,5 @@
+
+Dr. Smith 2001 555-0201 drsmith123 Software Engineering 05-05-1975
+Prof. Johnson 2002 555-0202 johnsonprof Accounting 06-06-1965
+Ms. Lee 2003 555-0203 leems Biology 07-07-1980
+Dr. Alice 3001 555-0301 alicepwd Computer Science 04-01-1978

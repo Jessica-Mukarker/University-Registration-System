@@ -1,0 +1,4 @@
+Alice,1001,555-0101,alice123,Biology,01-01-2000
+Bob,1002,555-0102 bob123,Chemistry,02-02-2001
+Charlie,1003,555-0103,charlie123,Physics,03-03-2002
+Bob,1004,555-0104,bobpwd,Software Engineering,2002-05-15

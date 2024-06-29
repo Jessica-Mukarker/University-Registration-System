@@ -1,0 +1,5 @@
+SEC101,Dr. Smith,Introduction to Software Engineering,"Mon 09:00-11:00 Room 101; Wed 09:00-11:00 Room 101"
+SEC102,Prof. Johnson,Advanced Mathematics,"Tue 10:00-12:00 Room 204; Thu 10:00-12:00 Room 204"
+SEC201,Ms. Lee,Physics III,"Mon 13:00-15:00 Room 305; Wed 13:00-15:00 Room 305"
+SEC301,Prof. Johnson,Advanced Mathematics,"Tue 10:00-12:00 Room 104; Thu 10:00-12 Room 203:
+SEC501,Data Structures,Dr. Alice,"Mon 09:00-11:00 Room Room 202; Wed 09:00-11:00 Room Room 202"

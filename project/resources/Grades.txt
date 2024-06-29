@@ -1,0 +1,3 @@
+studentID  CourseID  Grade
+202006932 SWER411 80
+
